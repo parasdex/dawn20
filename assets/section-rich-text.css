@@ -90,4 +90,5 @@ h2.rich-text__heading.rte.h1 span {
   background: #dbd1d1;
   padding: 0 20px;
   border-radius: 100px;
+  color: red !important;
 }
