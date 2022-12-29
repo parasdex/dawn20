@@ -97,4 +97,5 @@ h2.rich-text__heading.rte.h1:hover {
   background: #1fb4bb !important;
   border-radius: 100px !IMPORTANT;
   transition: 2s ease;
+  padding: 20px 0;
 }
