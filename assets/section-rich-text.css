@@ -84,3 +84,8 @@
 .rich-text__blocks.right .rich-text__buttons {
   justify-content: flex-end;
 }
+
+
+h2.rich-text__heading.rte.h1 span {
+  color: red !important;
+}
