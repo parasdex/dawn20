@@ -91,4 +91,10 @@ h2.rich-text__heading.rte.h1 span {
   padding: 0 20px;
   border-radius: 100px;
   color: red !important;
+  transition: 2s ease;
+}
+h2.rich-text__heading.rte.h1:hover {
+  background: #1fb4bb !important;
+  border-radius: 100px !IMPORTANT;
+  transition: 2s ease;
 }
